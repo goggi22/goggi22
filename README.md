@@ -43,6 +43,14 @@
 
 <img width="70%" src="https://github-trophies.vercel.app/?username=goggi22&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7" />
 
+### змейка
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goggi22/goggi22/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goggi22/goggi22/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/goggi22/goggi22/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1017,50:4F7CFF,100:8B6BFF&height=90&section=footer" />
