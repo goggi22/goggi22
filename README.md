@@ -11,7 +11,6 @@
 | 🐍 | [**asu-rub-api**](https://github.com/goggi22/asu-rub-api) | JSON API расписания РИ АлтГУ — парсер rb.asu.ru на чистом python |
 | 🤖 | [**asu-rub-bot**](https://github.com/goggi22/asu-rub-bot) | telegram-бот расписания на Telegram Serverless — rich-таблицы, напоминания |
 | 🎵 | [**music-rpc**](https://github.com/goggi22/music-rpc) | discord rich presence для музыки из telegram, как в spotify |
-| 🎮 | [**votvmp**](https://github.com/goggi22/votvmp) | мультиплеер-мод для voices of the void |
 
 ---
 
