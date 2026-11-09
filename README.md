@@ -6,16 +6,17 @@
 
 ### проекты
 
-<a href="https://github.com/goggi22/asu-rub-api">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=asu-rub-api&show_owner=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1" />
-</a>
-<a href="https://github.com/goggi22/asu-rub-bot">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=asu-rub-bot&show_owner=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1" />
-</a>
-<a href="https://github.com/goggi22/music-rpc">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=music-rpc&show_owner=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1" />
-</a>
+| | проект | что это |
+|---|---|---|
+| 🐍 | [**asu-rub-api**](https://github.com/goggi22/asu-rub-api) | JSON API расписания РИ АлтГУ — парсер rb.asu.ru на чистом python |
+| 🤖 | [**asu-rub-bot**](https://github.com/goggi22/asu-rub-bot) | telegram-бот расписания на Telegram Serverless — rich-таблицы, напоминания |
+| 🎵 | [**music-rpc**](https://github.com/goggi22/music-rpc) | discord rich presence для музыки из telegram, как в spotify |
+| 🎮 | [**votvmp**](https://github.com/goggi22/votvmp) | мультиплеер-мод для voices of the void |
 
 ---
 
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goggi22&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1" />
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+</p>
