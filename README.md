@@ -22,22 +22,22 @@
 ### проекты
 
 <a href="https://github.com/goggi22/asu-rub-api">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=goggi22&repo=asu-rub-api&theme=chartreuse-dark&show_owner=true" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=asu-rub-api&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/goggi22/asu-rub-bot">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=goggi22&repo=asu-rub-bot&theme=chartreuse-dark&show_owner=true" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=asu-rub-bot&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/goggi22/music-rpc">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=goggi22&repo=music-rpc&theme=chartreuse-dark&show_owner=true" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=music-rpc&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/goggi22/votvmp">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=goggi22&repo=votvmp&theme=chartreuse-dark&show_owner=true" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goggi22&repo=votvmp&theme=chartreuse-dark&show_owner=true" />
 </a>
 
 ### статистика
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=goggi22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1017&title_color=7AA2FF&icon_color=8B6BFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goggi22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1017&title_color=7AA2FF" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goggi22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1017&title_color=7AA2FF&icon_color=8B6BFF" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goggi22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1017&title_color=7AA2FF" />
 
 <img src="https://streak-stats.demolab.com?user=goggi22&theme=chartreuse-dark&hide_border=true&background=0D1017&ring=7AA2FF&fire=8B6BFF&currStreakLabel=7AA2FF" />
 
